@@ -202,4 +202,4 @@ This repository serves as the official landing page for Hitman 3. The software i
 **Get the most recent version of Hitman 3 today!**
 
 ---
-**Last updated:** 2026-11-11 01:03:49 UTC
+**Last updated:** 2026-11-11 08:56:03 UTC
